@@ -4,7 +4,7 @@ Authors Haven - A Social platform for the creative at heart.
 [![Build Status](https://travis-ci.com/andela/ivy-ah-frontend.svg?branch=develop)](https://travis-ci.com/andela/ivy-ah-frontend)[![Coverage Status](https://coveralls.io/repos/github/andela/ivy-ah-frontend/badge.svg?branch=chore%2F165595581-setup-project)](https://coveralls.io/github/andela/ivy-ah-frontend?branch=chore%2F165595581-setup-project)[![Maintainability](https://api.codeclimate.com/v1/badges/85e19235ff88bd0c1e88/maintainability)](https://codeclimate.com/github/andela/ivy-ah-frontend/maintainability)
 
 ## Vision
-Create a community of like minded authors to foster inspiration and innovation
+To create a community of like minded authors to foster inspiration and innovation
 by leveraging the modern web.
 
 ---
